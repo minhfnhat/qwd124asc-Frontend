@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transforming Your Everyday Office Experience into Extraordinary",
+        "title": "Elevate Your Worklife"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Worklife",
+  "subtitle": "Transforming Your Everyday Office Experience into Extraordinary"
+}
